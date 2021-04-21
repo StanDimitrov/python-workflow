@@ -1,0 +1,4 @@
+Python's documentation, tutorials, and guides are constantly evolving.
+
+Get started here, or scroll down for documentation broken out by type and subject.
+
