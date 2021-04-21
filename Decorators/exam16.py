@@ -3,7 +3,7 @@
 # list_pos = []
 #
 # for i, value in enumerate(my_str):
-#     print('Intex: i', i, 'Value: value', value)
+#     print('Index: i', i, 'Value: value', value)
 my_str = 'hello2020'
 count_list = [0,0,0,0,0,0,0,0,0,0]
 
